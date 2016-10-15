@@ -10,6 +10,14 @@ Lecture and seminar materials for each week is in ./week* folders
 
 
 # Announcements
+* 12.10 - If you sent us anything before 6-00 AM (Moscow) 12.10.16 and still got no reply / no score [here](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing) - contact us (slack, issue on github, anything) - there may be a problem with e-mail delivery.
+* 12.10 - for those rare specimen who read official curriculum - we'll have have to reorder the curriculum. Advanced vision goes 2 weeks forward, advanced text gets 2 weeks sooner. The rest stays as planned.
+* 7.10 - If you are considering project ideas, please contact us (slack >= mail) asap to know you exist. You don't have to know actual project topic - just tell us that you're there and you may be up to something.
+* 7.10 - We've now got [da feedback form](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit) - it's fully anonymous and you can send there whatever you won't send us via slack/mail.
+* 7.10 - Week3 lecture notes and homework uploaded.
+* 30.09 - Week2 homework (lasagne/cifar): Please do not forget to add deterministic=True for your neural network when computing accuracy (not when training)
+* 30.09 - added week2 lecture and homework.
+* 30.09 - published [scoreboard](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit#gid=0)
 * 23.09 - added week1 materials and homework
 * 20.09 - by default we meet on __Friday at 18-00, room 400__. _if you cannot make it, please send us an e-mail (course mail) or PM me in slack ASAP - we have a second parallel available and a few other options_.
 * 20.09 - HW0 deadline was shifted 1 wek into the future. Rejoice!
@@ -18,8 +26,6 @@ Lecture and seminar materials for each week is in ./week* folders
 * 15.09 - Please get the frameworks installed by the next class - [issue](https://github.com/yandexdataschool/HSE_deeplearning/issues/1)
 * 15.09 - added project rules and examples (see "course stuff" below)
 * 15.09 - week0 assignment published (see "syllabus")
-
-
 
 
 # Syllabus
@@ -37,9 +43,20 @@ Lecture and seminar materials for each week is in ./week* folders
 - __week2__ Deep learning for computer vision 101
   - [ ] Lecture: Convolutional neural networks
   - [ ] Seminar: lasagne and CIFAR
+    - [ ] HW due: 9.10.16 23.59 on first submission.
+- __week3__ Deep learning for natural language processing 101
+  - [ ] Lecture: NLP problems and applications, bag of words, word embeddings, word2vec, text convolution.
+  - [ ] Seminar: Text convolutions for Avito content filtering task
+    - [ ] HW due: 16.10.16 23.59 on first submission.
+- __week4__ Recurrent neural networks for sequences
+  - [ ] Lecture: Simple RNN. Why BPTT isn't worth 4 letters. GRU/LSTM. Language modelling. Optimized softmax. Time series applications.
+  - [ ] Seminar: Generating laws for pitiful humans with mighty RNNs.
+
 
 # Stuff
 * [One rule to rule them all](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Core:)
 * [Project rules](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Course-projects)
 * [Project examples](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Project-examples)
 * [Grading system](https://github.com/yandexdataschool/HSE_deeplearning/wiki/Grading)
+* [Grading table](https://docs.google.com/spreadsheets/d/1z3v1CG3Y7qnvSUNNzGR6maZq0QzveWQNhRH2VcMm1fM/edit?usp=sharing)
+* [Feedback form (anonymous)](https://docs.google.com/forms/u/0/d/1HaODcG3vW7PAiQOUexZAwaZzrcGtVIYbJjymhLhgLYA/edit)
